@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:copper_ore"
+    },
+    "result": "minecraft:copper_ingot",
+    "count": 1
+}
