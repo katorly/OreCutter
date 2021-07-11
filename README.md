@@ -26,7 +26,7 @@ Still unable to download? >> [Download entire repository](https://github.com.cnp
 ## Information
 <b>Data Pack Name:</b> Ore Cutter<br>
 <b>Category:</b> Game Mechanic<br>
-<b>Compatible with:</b> Minecraft Java 1.13+<br>
+<b>Compatible with:</b> Minecraft Java 1.14+<br>
 <b>Multiplayer Compatibility:</b> Completely compatible<br>
 <b>Data Pack Modifies:</b> Recipes<br>
 <b>Data Pack Version:</b> 1.0.0<br>
