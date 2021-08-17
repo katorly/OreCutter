@@ -1,7 +1,7 @@
 # Ore Cutter
 ## Introduction
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/OreCutter/screenshots/screenshot1.png">
+<img align="center" src="screenshots/screenshot1.png">
 
 Willing to turn a lot of ores into ingots at once?<br>
 This datapack allows you to turn ores into ingots in stonecutter:<br>
@@ -14,7 +14,7 @@ This datapack allows you to turn ores into ingots in stonecutter:<br>
 - copper ore -> copper ingot
 - deepslate copper ore -> copper ingot
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/OreCutter/screenshots/screenshot2.png">
+<img align="center" src="screenshots/screenshot2.png">
 
 ## Download
 <a href="https://github.com/katorly/OreCutter/raw/master/Ore%20Cutter.zip" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download1.png"></a><a href="https://github.com.cnpmjs.org/katorly/OreCutter/raw/master/Ore%20Cutter.zip" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download2.png"></a><a href="https://hub.fastgit.org/katorly/OreCutter/raw/master/Ore%20Cutter.zip" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download3.png"></a><br>
